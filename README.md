@@ -23,6 +23,7 @@ Intro to development, focused on .NET
 
 1. [C#: Learn C# in One Day and Learn It Well.](https://www.amazon.com/dp/B016Z18MLG)
 2. [The C# Programming Yellow Book](https://www.amazon.com/dp/B00HNSGM9A)
+3. [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Accounts
 
