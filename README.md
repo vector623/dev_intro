@@ -17,8 +17,10 @@ Intro to development, focused on .NET
 
 1. [Visual Studio](https://visualstudio.microsoft.com/vs/community/)  - programming IDE
 2. [Visual Studio Code](https://code.visualstudio.com) - lightweight programming editor
-2. [.NET Core](https://code.visualstudio.com) - development framework
+3. [.NET Core](https://code.visualstudio.com) - development framework
 4. [Git](https://git-scm.com) - source code management
+5. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - windows subsystem for linux.
+   lets you run linux on windows
 
 ## Books
 
