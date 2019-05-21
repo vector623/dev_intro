@@ -8,6 +8,7 @@ Intro to development, focused on .NET
 - [Readme](#readme)
     - [Programs](#programs)
     - [Books](#books)
+    - [Cheatsheets](#cheatsheets)
     - [Accounts](#accounts)
     - [Projects](#projects)
 
