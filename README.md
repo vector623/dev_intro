@@ -28,6 +28,12 @@ later.
 2. [The C# Programming Yellow Book](https://www.amazon.com/dp/B00HNSGM9A)
 3. [Pro Git](https://git-scm.com/book/en/v2)
 
+## Cheatsheets
+
+will add to this list later
+
+1. [Linux commands](https://gist.github.com/riipandi/3097780)
+
 ## Accounts
 
 create the following accounts
