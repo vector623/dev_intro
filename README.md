@@ -54,3 +54,4 @@ Potential projects to start with
 1. Stock database
 2. Podcast server
 3. Weather display server
+4. Monitor crypto-currency markets; data display
