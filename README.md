@@ -38,6 +38,7 @@ later.
 Will add to this list later
 
 1. [Linux commands](https://gist.github.com/riipandi/3097780)
+2. [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
 ## Accounts
 
