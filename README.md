@@ -38,6 +38,8 @@ later.
 Will add to this list later
 
 1. [Linux commands](https://gist.github.com/riipandi/3097780)
+2. [Markdown](https://daringfireball.net/projects/markdown/syntax)
+3. [Git](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 ## Accounts
 
@@ -53,3 +55,5 @@ Potential projects to start with
 
 1. Stock database
 2. Podcast server
+3. Weather display server
+4. Monitor crypto-currency markets; data display
